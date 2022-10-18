@@ -19,7 +19,8 @@
   </div>
 
 
-  😄 About Me :
+---
+### 😄 About Me :
   
   -  💬 Let's talk about javascript, html, css
 
