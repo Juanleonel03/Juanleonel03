@@ -17,7 +17,15 @@
      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="">
     </a>
   </div>
+  ---
+  ### About Me :
+  -  💬 Let's talk about javascript, html, css
 
+  -  ⚡ I upload reel about web development in tiktok, follow me [@watermelon.code_](https://tiktok.com/@watermelon.code_)
+
+  -  🌱 Currently I am still learning javascript
+  
+  -  📫 How to reach me: **juanleonel.developer@gmail.com**
 <!--
 **Juanleonel03/Juanleonel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
