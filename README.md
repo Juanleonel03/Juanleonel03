@@ -1,3 +1,12 @@
+<div id="header" align="center">
+
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200">
+  <h1 align="center">Hi there 👋, I'm Juan Leonel</h1>
+  <h3 align="center">i am a computer engineering student and self-taught in frontend web development. 
+    you can follow me in my social networks: tiktok, instagram and twitter.</h3>
+</div>
+
+
 ### Hi there 👋
 
 <!--
