@@ -17,8 +17,9 @@
      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="">
     </a>
   </div>
-  ---
-  ### About Me :
+  
+  😄 About Me :
+  
   -  💬 Let's talk about javascript, html, css
 
   -  ⚡ I upload reel about web development in tiktok, follow me [@watermelon.code_](https://tiktok.com/@watermelon.code_)
