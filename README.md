@@ -17,9 +17,9 @@
      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="">
     </a>
   </div>
----
 
-  ### 😄 About Me :
+
+  😄 About Me :
   
   -  💬 Let's talk about javascript, html, css
 
@@ -38,6 +38,15 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">
   </div>
 </div>
+
+---
+### 📊  My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuanLeonel&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Juanleonel GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanleonel&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanleonel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Juanleonel03/Juanleonel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
