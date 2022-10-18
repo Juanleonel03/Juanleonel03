@@ -27,6 +27,16 @@
   -  🌱 Currently I am still learning javascript
   
   -  📫 How to reach me: **juanleonel.developer@gmail.com**
+
+<div align="left">
+  <h3>🔨 Languages and Tools:</h3>
+  <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">
+  </div>
+</div>
 <!--
 **Juanleonel03/Juanleonel03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
